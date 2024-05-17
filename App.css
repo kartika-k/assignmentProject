@@ -1,0 +1,88 @@
+/* .App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  margin-top: 100px;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.search-container input {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 20px 0 0 20px;
+  outline: none;
+}
+
+.search-container button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 0 20px 20px 0;
+  outline: none;
+}
+
+.search-container button:hover {
+  background-color: #0056b3;
+}
+
+.footer-text {
+  margin-top: 50px;
+  font-style: italic;
+  color: #555;
+} */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  height:100%;
+  width:100%;
+}
+
+.App-header {
+  margin-top: 100px;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.search-container input {
+  width: 700px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 20px 0 0 20px;
+  outline: none;
+}
+
+.search-container button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 0 20px 20px 0;
+  outline: none;
+}
+
+.search-container button:hover {
+  background-color: #0056b3;
+}
+
+.footer-text {
+  margin-top: 100px;
+  font-style: italic;
+  color: #b8b2b2;
+}

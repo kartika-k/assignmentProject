@@ -1,0 +1,32 @@
+/* CapsuleSearch.css */
+.capsule-search {
+    text-align: left;
+    margin: 20px;
+  }
+  
+  .capsule-search input {
+    padding: 10px;
+    margin-right: 10px;
+    width: 300px;
+  }
+  
+  .capsule-search button {
+    padding: 10px 20px;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .results {
+    margin-top: 20px;
+  }
+  
+  .result-item {
+    background: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+  }
+  
